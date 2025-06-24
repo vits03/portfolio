@@ -16,16 +16,11 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              With over 5 years of experience in web development, I specialize
-              in creating responsive, accessible, and performant web
-              applications using modern technologies.
+            With a First-Class Honours degree in Software Engineering and hands-on experience building solutions for SMEs and communities, I specialize in crafting responsive, accessible, and impact-driven web applications. My work bridges technical excellence with real-world problem-solving — from boosting sales for small businesses to empowering citizens through platforms like DressMaupays.
             </p>
 
             <p className="text-muted-foreground">
-              I'm passionate about creating elegant solutions to complex
-              problems, and I'm constantly learning new technologies and
-              techniques to stay at the forefront of the ever-evolving web
-              landscape.
+            I’m passionate about turning complex challenges into elegant, user-centric solutions. Whether freelancing or founding my own projects, I prioritize clean code, performance, and measurable results. The web evolves fast, and so do I — I’m always learning, testing new tools, and refining my craft.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
