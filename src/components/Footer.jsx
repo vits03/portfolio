@@ -7,7 +7,7 @@ export const Footer = () => {
       <p className="text-sm mx-auto  text-muted-foreground">
         {" "}
         Copyright &copy; {new Date().getFullYear()}{" "}
-           All rights reserved.
+           All rights reserved. credits to Pedro Machado 
       </p>
       <a
         href="#hero"
